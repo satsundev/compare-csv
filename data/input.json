@@ -1,0 +1,10 @@
+{
+    "info": [{
+        "description": "This CSV file contains information about users present in an company.",
+        "expected": "user_info_expected.csv",
+        "actual": "user_info_actual.csv",
+        "diff": "user_info_diff.csv",
+        "summary": "user_info_summary.csv",
+        "identity": "id"
+    }]
+}
