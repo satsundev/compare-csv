@@ -1,0 +1,7 @@
+,Difference,Match,Total
+email_#compare,9.0,991.0,1000.0
+first_name_#compare,7.0,993.0,1000.0
+gender_#compare,0.0,1000.0,1000.0
+id_#compare,0.0,1000.0,1000.0
+ip_address_#compare,0.0,1000.0,1000.0
+last_name_#compare,2.0,998.0,1000.0
